@@ -1,4 +1,4 @@
-package com.backend.springjwt.controller;
+package com.backend.springjwt.controllers;
 
 import com.backend.springjwt.models.Depence;
 import com.backend.springjwt.services.DepenceServImp;
